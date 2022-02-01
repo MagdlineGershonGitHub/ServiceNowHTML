@@ -3,7 +3,7 @@ let word = "bottles";
 
         while (beer > 0) {
 
-            if (beerNum == 1) {
+            if (beer== 1) {
                 word = "bottle"; // ONE bottle
             }
 
